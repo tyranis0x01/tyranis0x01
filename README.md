@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hey there! I’m @Tyranis0x01 👋
+**Flashloan & Arbitrage Enthusiast** diving deep into DeFi flow dynamics.
 
-<!--
-**tyranis0x01/tyranis0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  Interests
+- Flashloans & arbitrage strategies on Ethereum & EVM chains
+- Dynamic NFTs & on-chain reputation systems
+- Building scalable lending protocols and tooling for DeFi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently Learning
+- Advanced flashloan patterns and arbitrage risk modeling
+- Probabilistic NFT trait generation and dynamic metadata
+- Gas — optimization & secure Solidity contract development
+
+###  Projects I’m Proud Of
+
+| Repository                        | Description                                                              |
+|----------------------------------|--------------------------------------------------------------------------|
+| **dynamic-nft-system**           | A system where NFTs evolve traits over time—adaptable, modular, and fun. |
+| **simple-lending-pool**          | A baseline repo for lending/borrowing logic—great for experimentation.   |
+
+###  Looking to Collaborate On
+DeFi infrastructure (flashloan orchestration, arbitrage tooling), dynamic NFTs, lending mechanisms, or anything that pushes Ethereum UX forward.
+
+###  Fun Fact
+I once arbitraged tokens across three testnet pairs—just for the thrill of gasless profits. 🕶️
+
+---
+
+**Tech Stack:** Solidity · Foiundry · Chainlink · Aave · Uniswap V2/V3 · Ethereum · IPFS
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tyranis01&show_icons=true&theme=radical" alt="GitHub stats" />
