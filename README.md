@@ -30,4 +30,4 @@ I once arbitraged tokens across three testnet pairs—just for the thrill of gas
 
 **Tech Stack:** Solidity · Foiundry · Chainlink · Aave · Uniswap V2/V3 · Ethereum · IPFS
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tyranis01&show_icons=true&theme=radical" alt="GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tyranis0x01&show_icons=true&theme=radical" alt="GitHub stats" />
